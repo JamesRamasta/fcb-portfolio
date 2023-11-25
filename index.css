@@ -30,3 +30,10 @@ h1, p {
 	align-items: center;
 }
 
+#landing2{
+	color: #0096FF;
+	display: flex;
+	flex-direction: column;
+	justify-content: center;
+	align-items: center;
+}
